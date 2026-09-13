@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
 ```
 
-### `> FULL-STACK DEVELOPER // DEVOPS // AUTOMATION`
+### `> FULL-STACK DEVELOPER // AUTOMATION`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -42,7 +42,6 @@ $ cat /etc/profile
 
 Full-Stack Developer
 Backend Engineer
-DevOps Enthusiast
 Automation Enjoyer
 Problem Solver
 
@@ -254,15 +253,6 @@ Telegram API
 Playwright
 AsyncIO
 Web Automation
-```
-
----
-
-## ⚙️ `DEVOPS LAB`
-
-```text
-STATUS: BUILDING
-TYPE: INFRASTRUCTURE
 ```
 
 Experiments with Linux, Docker, networking, deployment,
