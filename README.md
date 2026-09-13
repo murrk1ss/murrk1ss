@@ -1,6 +1,6 @@
-# 👋 Hey, I'm `murrkiss`
+#  Hey, I'm `murrkiss`
 
-### Full-Stack Developer • DevOps Enthusiast • Builder
+### Full-Stack Developer • Builder
 
 > I turn ideas into working products — from the first line of code to deployment.
 
